@@ -10,7 +10,7 @@ Supports **multiple document** formats
 
 **Real-time processing** and **response generation**
 
-💡 Developed using **Python**, **Streamlit**, **PyPDF2**, **docx**, **pandas**, and several **AI models** from OpenAI and Hugging Face, this application not only enhances document accessibility but also streamlines your workflow by allowing voice-driven interactions.
+💡 Developed using **Python**, **Streamlit**, **PyPDF2**, **docx**, **pandas**, and several **AI models** from **OpenAI** and **Hugging Face**, this application not only enhances document accessibility but also streamlines your workflow by allowing voice-driven interactions.
 
 
 
