@@ -1,9 +1,15 @@
 🚀 Happy to share my latest project, hashtag#DocTalker! This cutting-edge VoiceBot integrates with Streamlit to turn your PDF, DOCX, CSV, and TXT files into a dynamic conversation. Using AI, it reads, processes, and interacts with your documents, making data retrieval as easy as chatting with a friend. 🗣️📄
+
 🔍 Features:
+
 Voice commands for querying document content
+
 Text-to-speech functionality for an interactive experience
+
 Supports multiple document formats
+
 Real-time processing and response generation
+
 💡 Developed using Python, Streamlit, PyPDF2, docx, pandas, and several AI models from OpenAI and Hugging Face, this application not only enhances document accessibility but also streamlines your workflow by allowing voice-driven interactions.
 
 
